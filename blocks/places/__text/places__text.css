@@ -1,0 +1,35 @@
+.places__text {
+    max-width: 484px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 1.63;
+    margin: 0 0 26px;
+}
+
+.places__text:last-of-type {
+    margin: 0;
+}
+
+@media screen and (max-width: 1150px) {
+    .places__text {
+        max-width: 456px;
+    }
+}
+
+@media screen and (max-width: 900px) {
+    .places__text {
+        max-width: 352px;
+        font-size: 16px;
+    }
+}
+
+@media screen and (max-width: 352px) {
+    .places__text {
+        max-width: 288px;
+        margin-left: 16px;
+    }
+
+    .places__text:last-of-type {
+        margin-left: 16px;
+    }
+}

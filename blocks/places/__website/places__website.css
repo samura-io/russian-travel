@@ -1,0 +1,22 @@
+.places__website {
+    max-width: 456px;
+    align-self: end;
+}
+
+@media screen and (max-width: 1150px) {
+    .places__website {
+        max-width: 456px;
+    }
+}
+
+@media screen and (max-width: 900px) {
+    .places__website {
+        max-width: 352px;
+    }
+}
+
+@media screen and (max-width: 352px) {
+    .places__website {
+        margin-left: 16px;
+    }
+}

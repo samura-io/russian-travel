@@ -1,6 +1,6 @@
 # Проект: Путешествие по России
-### Preview: https://samura-io.github.io/russian-travel/
- 
+## GH Pages: [Ссылка](https://samura-io.github.io/russian-travel/)
+## Описание:
 Одностраничный сайт в котором применена адаптивная вёрстка, <br>
 сайт одинаково красиво и функционально работает на всех популярных <br>
 устройствах. В данном проекте использовался Grid Layout а также media queries <br>
